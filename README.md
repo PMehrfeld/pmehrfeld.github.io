@@ -1,4 +1,4 @@
 # pmehrfeld.github.io
-Test direct creating web pages via GitHub
+Test directly creating web pages via GitHub
 
 Visit: https://pmehrfeld.github.io/
